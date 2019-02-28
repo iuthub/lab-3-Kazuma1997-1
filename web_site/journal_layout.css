@@ -1,0 +1,37 @@
+.clr{
+	clear: both;
+}
+.wrapper{
+	border: 10px white solid;
+	background-color: white;
+}
+
+.header{
+border: 4px #C2E9E9 solid;
+background-color: #C2E9E9;
+text-align: right;
+}
+
+.article{
+border: 4px #C2E9E9 solid;
+background-color: #E8FBFB;
+padding: 5px;
+margin-top: 10px;
+}
+
+.article .date{
+
+border-bottom: dashed 2px #C2E9E9 ;
+}
+
+.header > h2{
+font-size: 14px;
+}
+
+body{
+	background: url("images/back.png");
+
+}
+img{
+	float: right;
+}
